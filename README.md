@@ -1,24 +1,10 @@
-# estrutura
+# Projeto Simulando uma pesquisa de produtos de uma loja
 
-## Project setup
-```
-npm install
-```
+- Layout Responsivo
+- Feito em Vue.js <img align="center" alt="spring" height="40"  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 
-### Compiles and hot-reloads for development
+## Setup do projeto
 ```
-npm run serve
+- npm install para instalar dependências
+- npm run serve para rodar o projeto
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
